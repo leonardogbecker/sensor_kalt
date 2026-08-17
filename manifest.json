@@ -1,0 +1,7 @@
+﻿{
+    "fw_version":  1,
+    "init_pkt_size":  140,
+    "init_pkt_sha256":  "c75b06901bb80930cf083124535af79f08b156fa93db20e7af9e7a72c0b4a34f",
+    "firmware_size":  13776,
+    "firmware_sha256":  "6e34bc9312d8db70eea3b449296bb5f7c80dc6e67f94c0ee33128f5d108a947c"
+}
